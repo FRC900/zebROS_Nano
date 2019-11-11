@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/2019Offseason/zebROS_ws/
+cd ~/zebROS_Nano/zebROS_ws/
 
 if [ -z $ROS_ROOT ]; then
 	source /opt/ros/melodic/setup.bash
