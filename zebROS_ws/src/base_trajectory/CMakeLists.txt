@@ -13,7 +13,6 @@ find_package(catkin REQUIRED COMPONENTS
   joint_trajectory_controller
   swerve_point_generator
   std_msgs
-  nav_msgs
   message_generation
   trajectory_msgs
   talon_swerve_drive_controller
@@ -77,7 +76,6 @@ add_service_files(
 generate_messages(
    DEPENDENCIES
    std_msgs  # Or other packages containing msgs
-   nav_msgs
    trajectory_msgs
    swerve_point_generator
    base_trajectory
