@@ -1,3 +1,4 @@
-# 2019 OffeasonCode  [![Build Status](https://travis-ci.com/FRC900/2019Offseason.svg?token=T6hJWxFcNyyzxifXQqW5&branch=master)](https://travis-ci.com/FRC900/2019Offseason)
-Offseason dev sandbox for 2019 fall offseason
+# ZebROS Branch for Jetson Nano and TileRunner
+
+If you've got questions about this then send us an email: support@team900.org
 
