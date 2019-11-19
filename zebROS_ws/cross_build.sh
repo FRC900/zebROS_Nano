@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/2019Offseason/zebROS_ws/
+cd ~/zebROS_Nano/zebROS_ws/
 
 if [ -z $ROS_ROOT ]; then
 	PATH=$PATH:$HOME/frc2019/roborio/bin
