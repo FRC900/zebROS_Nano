@@ -22,8 +22,8 @@ class MatchHWState
 			match_number_(0),
 			replay_number_(0),
 
-			enabled_(false),
-			disabled_(true),
+			enabled_(true),
+			disabled_(false),
 			autonomous_(false),
 			fms_attached_(false),
 			ds_attached_(false),
